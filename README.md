@@ -5,3 +5,5 @@
 - [Heart Disease Prediction](https://www.curiousily.com/posts/heart-disease-prediction-in-tensorflow-2/)
 - [Cryptocurrency price prediction using LSTMs](https://www.curiousily.com/posts/cryptocurrency-price-prediction-in-tensorflow-2/)
 - [Practical Guide to Handling Imbalanced Datasets](https://www.curiousily.com/posts/practical-guide-to-handling-imbalanced-datasets/)
+- [Hacker's Guide to Fixing Underfitting and Overfitting Models](https://www.curiousily.com/posts/hackers-guide-to-fixing-underfitting-and-overfitting-models/)
+
