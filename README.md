@@ -7,3 +7,4 @@
 - [Practical Guide to Handling Imbalanced Datasets](https://www.curiousily.com/posts/practical-guide-to-handling-imbalanced-datasets/)
 - [Hacker's Guide to Fixing Underfitting and Overfitting Models](https://www.curiousily.com/posts/hackers-guide-to-fixing-underfitting-and-overfitting-models/)
 - [Hacker's Guide to Hyperparameter Tuning](https://www.curiousily.com/posts/hackers-guide-to-hyperparameter-tuning/)
+- [Deploy a Keras Deep Learning Project to Production with Flask](https://www.curiousily.com/posts/deploy-keras-deep-learning-project-to-production-with-flask/)
