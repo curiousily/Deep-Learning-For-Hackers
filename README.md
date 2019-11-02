@@ -9,3 +9,4 @@
 - [Hacker's Guide to Hyperparameter Tuning](https://www.curiousily.com/posts/hackers-guide-to-hyperparameter-tuning/)
 - [Deploy a Keras Deep Learning Project to Production with Flask](https://www.curiousily.com/posts/deploy-keras-deep-learning-project-to-production-with-flask/)
 - [Hacker's Guide to Data Preparation for Machine Learning](https://www.curiousily.com/posts/hackers-guide-to-data-preparation-for-machine-learning/)
+- [Hacker's Guide to Fundamental Machine Learning Algorithms](https://www.curiousily.com/posts/hackers-guide-to-fundamental-machine-learning-algorithms/)
