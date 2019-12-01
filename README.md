@@ -13,3 +13,5 @@
 - [Time Series Forecasting with LSTMs](https://www.curiousily.com/posts/time-series-forecasting-with-lstms-using-tensorflow-2-and-keras-in-python/)
 - [Time Series Demand Prediction with LSTMs](https://www.curiousily.com/posts/demand-prediction-with-lstms-using-tensorflow-2-and-keras-in-python/)
 - [Time Series Classification for Human Activity Recognition with LSTMs](https://www.curiousily.com/posts/time-series-classification-for-human-activity-recognition-with-lstms-in-keras/)
+- [Time Series Anomaly Detection with LSTM Autoencoders](https://www.curiousily.com/posts/anomaly-detection-in-time-series-with-lstms-using-keras-in-python/)
+- [Object Detection on Custom Dataset](https://www.curiousily.com/posts/object-detection-on-custom-dataset-with-tensorflow-2-and-keras-using-python/)
