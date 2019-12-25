@@ -16,3 +16,4 @@
 - [Time Series Anomaly Detection with LSTM Autoencoders](https://www.curiousily.com/posts/anomaly-detection-in-time-series-with-lstms-using-keras-in-python/)
 - [Object Detection on Custom Dataset](https://www.curiousily.com/posts/object-detection-on-custom-dataset-with-tensorflow-2-and-keras-using-python/)
 - [Image Data Augmentation](https://www.curiousily.com/posts/image-data-augmentation-for-tensorflow-2-keras-and-pytorch-with-albumentations-in-python/)
+- [Sentiment Analysis](https://www.curiousily.com/posts/sentiment-analysis-with-tensorflow-2-and-keras-using-python/)
