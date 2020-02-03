@@ -17,3 +17,4 @@
 - [Object Detection on Custom Dataset](https://www.curiousily.com/posts/object-detection-on-custom-dataset-with-tensorflow-2-and-keras-using-python/)
 - [Image Data Augmentation](https://www.curiousily.com/posts/image-data-augmentation-for-tensorflow-2-keras-and-pytorch-with-albumentations-in-python/)
 - [Sentiment Analysis](https://www.curiousily.com/posts/sentiment-analysis-with-tensorflow-2-and-keras-using-python/)
+- [Intent Recognition with BERT using Keras and TensorFlow 2](https://www.curiousily.com/posts/intent-recognition-with-bert-using-keras-and-tensorflow-2/)
