@@ -1,4 +1,4 @@
-# Deep Learning for Hackers 🐱‍💻
+# 🐱‍💻 Deep Learning for Hackers
 
 This book brings the fundamentals of Machine Learning to you, using tools and techniques used to solve real-world problems in Computer Vision, Natural Language Processing, and Time Series analysis. The skills taught in this book will lay the foundation for you to advance your journey to Machine Learning Mastery:
 
@@ -8,7 +8,7 @@ This book brings the fundamentals of Machine Learning to you, using tools and te
 
 <a href="http://bit.ly/Hackers-Guide-to-Machine-Learning-with-Python" target="_blank">Read the book here</a>
 
-## Read for FREE 📖
+## 📖 Read for FREE
 
 The whole book can be read using the links below. Each part contains a notebook that you can find in this repository.
 
