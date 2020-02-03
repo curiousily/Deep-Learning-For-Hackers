@@ -1,4 +1,16 @@
-# Deep Learning for Hackers
+# Deep Learning for Hackers 🐱‍💻
+
+This book brings the fundamentals of Machine Learning to you, using tools and techniques used to solve real-world problems in Computer Vision, Natural Language Processing, and Time Series analysis. The skills taught in this book will lay the foundation for you to advance your journey to Machine Learning Mastery:
+
+<a href="http://bit.ly/Hackers-Guide-to-Machine-Learning-with-Python" target="_blank">
+  <img src="https://raw.githubusercontent.com/curiousily/Deep-Learning-For-Hackers/master/.github/book-cover.png" width="250">
+</a>
+
+<a href="http://bit.ly/Hackers-Guide-to-Machine-Learning-with-Python" target="_blank">Read the book here</a>
+
+## Read for FREE 📖
+
+The whole book can be read using the links below. Each part contains a notebook that you can find in this repository.
 
 - [TensorFlow 2 and Keras - Quick Start Guide](https://www.curiousily.com/posts/tensorflow-2-and-keras-quick-start-guide/)
 - [Build your first Neural Network](https://www.curiousily.com/posts/build-your-first-neural-network-in-tensorflow-2/)
@@ -18,3 +30,5 @@
 - [Image Data Augmentation](https://www.curiousily.com/posts/image-data-augmentation-for-tensorflow-2-keras-and-pytorch-with-albumentations-in-python/)
 - [Sentiment Analysis](https://www.curiousily.com/posts/sentiment-analysis-with-tensorflow-2-and-keras-using-python/)
 - [Intent Recognition with BERT using Keras and TensorFlow 2](https://www.curiousily.com/posts/intent-recognition-with-bert-using-keras-and-tensorflow-2/)
+
+Consider buying the book if you want to support my work. Thanks for stopping by! 🤗
