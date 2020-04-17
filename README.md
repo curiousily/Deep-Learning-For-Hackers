@@ -1,6 +1,8 @@
-# 🐱‍💻 Hacker's Guide to Machine Learning with Python
+# Hacker's Guide to Machine Learning with Python 🐱‍💻
 
-This book brings the fundamentals of Machine Learning to you, using tools and techniques used to solve real-world problems in Computer Vision, Natural Language Processing, and Time Series analysis. The skills taught in this book will lay the foundation for you to advance your journey to Machine Learning Mastery:
+This book brings the fundamentals of Machine Learning to you, using tools and techniques used to solve real-world problems in Computer Vision, Natural Language Processing, and Time Series analysis. The skills taught in this book will lay the foundation for you to advance your journey to Machine Learning Mastery.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/curiousily/Deep-Learning-For-Hackers/)
 
 <a href="http://bit.ly/Hackers-Guide-to-Machine-Learning-with-Python" target="_blank">
   <img src="https://raw.githubusercontent.com/curiousily/Deep-Learning-For-Hackers/master/.github/book-cover.png" width="250">
